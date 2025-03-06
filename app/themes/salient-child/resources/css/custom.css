@@ -1,0 +1,12 @@
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'jaf-domus' !important;
+  font-style:normal;
+  font-weight:700 !important;
+}
+
+p {
+  font-family: 'jaf-domus' !important;
+  font-style:normal;
+  font-weight:400 !important;
+}
